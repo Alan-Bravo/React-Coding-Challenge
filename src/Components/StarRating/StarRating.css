@@ -1,0 +1,32 @@
+.starsVal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+input[type="button"] {
+    display: none;
+}
+
+.ratingTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.divRating {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    margin-left: 88vh;
+    margin-right: 88vh;
+    height: 50px;
+    border-radius: 10px;
+}

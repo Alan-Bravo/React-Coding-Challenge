@@ -1,0 +1,33 @@
+.pageBody {
+  margin: auto;
+}
+
+.searchTitle {
+  padding: 10px;
+  font-size: 20px;
+}
+
+.headerPage {
+  margin: 10px 200px 50px 200px;
+  padding: 40px;
+  background-image: url(https://image.tmdb.org/t/p/original/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg);
+  background-size: cover;
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 50vh;
+}
+
+.textBanner {
+  text-align: center;
+}
+
+.btn {
+    width: 110px;
+    height: 40px;
+    background-color: #e77f67;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 200px;
+}
